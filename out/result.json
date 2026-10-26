@@ -1,0 +1,168 @@
+{
+ "dev": {
+  "totals": {
+   "clean": 74,
+   "clean_flagged_mine": 0,
+   "clean_flagged_tieout": 0,
+   "planted": 226,
+   "caught_mine": 226,
+   "caught_tieout": 103,
+   "named_mine": 226,
+   "unexplained_mine": 0,
+   "over_total": 35923437.27,
+   "over_passed_tieout": 35920830.41,
+   "over_passed_mine": 0
+  },
+  "by_kind": {
+   "no_credit": {
+    "n": 18,
+    "caught": 18,
+    "named": 18,
+    "tieout": 0
+   },
+   "aging_basis": {
+    "n": 21,
+    "caught": 21,
+    "named": 21,
+    "tieout": 0
+   },
+   "conc_on_gross": {
+    "n": 24,
+    "caught": 24,
+    "named": 24,
+    "tieout": 0
+   },
+   "gross_not_tied": {
+    "n": 84,
+    "caught": 84,
+    "named": 84,
+    "tieout": 84
+   },
+   "arith": {
+    "n": 19,
+    "caught": 19,
+    "named": 19,
+    "tieout": 19
+   },
+   "no_contra": {
+    "n": 15,
+    "caught": 15,
+    "named": 15,
+    "tieout": 0
+   },
+   "adv90": {
+    "n": 20,
+    "caught": 20,
+    "named": 20,
+    "tieout": 0
+   },
+   "affiliate_in": {
+    "n": 6,
+    "caught": 6,
+    "named": 6,
+    "tieout": 0
+   },
+   "no_cross": {
+    "n": 10,
+    "caught": 10,
+    "named": 10,
+    "tieout": 0
+   },
+   "no_dil": {
+    "n": 9,
+    "caught": 9,
+    "named": 9,
+    "tieout": 0
+   }
+  }
+ },
+ "held_out": {
+  "totals": {
+   "clean": 78,
+   "clean_flagged_mine": 0,
+   "clean_flagged_tieout": 0,
+   "planted": 322,
+   "caught_mine": 322,
+   "caught_tieout": 148,
+   "named_mine": 239,
+   "unexplained_mine": 83,
+   "over_total": 32414322.33,
+   "over_passed_tieout": 32413513.69,
+   "over_passed_mine": 0
+  },
+  "by_kind": {
+   "fx_not_converted": {
+    "n": 65,
+    "caught": 65,
+    "named": 0,
+    "tieout": 65
+   },
+   "arith": {
+    "n": 11,
+    "caught": 11,
+    "named": 11,
+    "tieout": 11
+   },
+   "gross_not_tied": {
+    "n": 72,
+    "caught": 72,
+    "named": 72,
+    "tieout": 72
+   },
+   "no_credit": {
+    "n": 13,
+    "caught": 13,
+    "named": 13,
+    "tieout": 0
+   },
+   "rated_cap_missed": {
+    "n": 18,
+    "caught": 18,
+    "named": 0,
+    "tieout": 0
+   },
+   "aging_basis": {
+    "n": 42,
+    "caught": 42,
+    "named": 42,
+    "tieout": 0
+   },
+   "adv90": {
+    "n": 28,
+    "caught": 28,
+    "named": 28,
+    "tieout": 0
+   },
+   "affiliate_in": {
+    "n": 8,
+    "caught": 8,
+    "named": 8,
+    "tieout": 0
+   },
+   "no_contra": {
+    "n": 18,
+    "caught": 18,
+    "named": 18,
+    "tieout": 0
+   },
+   "no_cross": {
+    "n": 13,
+    "caught": 13,
+    "named": 13,
+    "tieout": 0
+   },
+   "conc_on_gross": {
+    "n": 24,
+    "caught": 24,
+    "named": 24,
+    "tieout": 0
+   },
+   "no_dil": {
+    "n": 10,
+    "caught": 10,
+    "named": 10,
+    "tieout": 0
+   }
+  }
+ }
+}
